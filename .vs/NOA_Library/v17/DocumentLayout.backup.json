@@ -1,0 +1,1264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andja\\source\\repos\\NOA_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\validations\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:validations\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\books\\booksbygenere.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\books\\booksbygenere.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\wwwroot\\css\\booksld.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:wwwroot\\css\\booksld.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\upcomingbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\upcomingbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\upcomingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\upcomingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\upcomingbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\upcomingbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\booksscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\booksscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\kontaktuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\kontaktuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\shared\\theme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\shared\\theme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\bookss\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\bookss\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\home\\viewcontactusthankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\home\\viewcontactusthankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\home\\viewcontactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\home\\viewcontactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\home\\viewaboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\home\\viewaboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\wwwroot\\js\\site2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:wwwroot\\js\\site2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:wwwroot\\css\\theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\viewmodels\\borrow\\returnviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:viewmodels\\borrow\\returnviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\viewmodels\\borrow\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:viewmodels\\borrow\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\admin\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\admin\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\filters\\adminauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:filters\\adminauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\request\\requesti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\request\\requesti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\kontaktus\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\kontaktus\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\kontaktus\\kontakto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\kontaktus\\kontakto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\borrow\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\borrow\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\bookss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\bookss\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\bookss\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\bookss\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\bookss\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\bookss\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\bookss\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\bookss\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\bookss\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\bookss\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\views\\about\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:views\\about\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\kontakt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\kontakt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|c:\\users\\andja\\source\\repos\\noa_library\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B73839-751E-4B63-A147-AA9FF4672746}|NOA_Library.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:38:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:38:17.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:41:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:41:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:42:58.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:42:19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Validations\\Validations.cs",
+              "RelativeDocumentMoniker": "Validations\\Validations.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Validations\\Validations.cs",
+              "RelativeToolTip": "Validations\\Validations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:09:06.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookRepository.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\BookRepository.cs",
+              "RelativeToolTip": "BookRepository.cs",
+              "ViewState": "AgIAADMCAAAAAAAAAAAAwEQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:02:12.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:37:54.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Models\\Books.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Books.cs",
+              "RelativeToolTip": "Models\\Books.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:29:05.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:44:56.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:44:29.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BooksByGenere.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Books\\BooksByGenere.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\BooksByGenere.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Books\\BooksByGenere.cshtml",
+              "RelativeToolTip": "Views\\Books\\BooksByGenere.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:43:54.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Rating.cs",
+              "RelativeToolTip": "Models\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:20:29.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:29:45.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "Controllers\\RatingController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:18:32.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:36:15.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-18T20:15:10.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpcomingBook.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\UpcomingBook.cs",
+              "RelativeDocumentMoniker": "Models\\UpcomingBook.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\UpcomingBook.cs",
+              "RelativeToolTip": "Models\\UpcomingBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:16:47.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpcomingBooksController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\UpcomingBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UpcomingBooksController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\UpcomingBooksController.cs",
+              "RelativeToolTip": "Controllers\\UpcomingBooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:31:25.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "booksld.css",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\booksld.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\booksld.css",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\booksld.css",
+              "RelativeToolTip": "wwwroot\\css\\booksld.css",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAwCEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-19T17:23:45.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\UpcomingBooks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\UpcomingBooks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\UpcomingBooks\\Index.cshtml",
+              "RelativeToolTip": "Views\\UpcomingBooks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T15:32:36.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Profile.css",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\Profile.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Profile.css",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\Profile.css",
+              "RelativeToolTip": "wwwroot\\css\\Profile.css",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-18T20:19:24.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Account.css",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\Account.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Account.css",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\Account.css",
+              "RelativeToolTip": "wwwroot\\css\\Account.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-18T20:18:30.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Models\\Request.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Request.cs",
+              "RelativeToolTip": "Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:26:05.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAArwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:27:13.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:09:33.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:49:49.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:50:33.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookssController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\BookssController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookssController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\BookssController.cs",
+              "RelativeToolTip": "Controllers\\BookssController.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAQwP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:35:39.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RequestController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "Controllers\\RequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:31:53.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:32:28.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAQwMYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:34:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KontaktUsController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\KontaktUsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KontaktUsController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\KontaktUsController.cs",
+              "RelativeToolTip": "Controllers\\KontaktUsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:33:29.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:56:41.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Controllers\\FileController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:34:09.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:37:08.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:37:57.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:42:16.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "theme.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\theme.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\theme.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\theme.cshtml",
+              "RelativeToolTip": "Views\\Shared\\theme.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:41:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:41:10.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:39:54.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookss\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\NotFound.cshtml",
+              "RelativeToolTip": "Views\\Bookss\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:33:05.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ViewContactUsThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\ViewContactUsThankYou.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewContactUsThankYou.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\ViewContactUsThankYou.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewContactUsThankYou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:32:16.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ViewContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\ViewContactUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewContactUs.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\ViewContactUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:31:26.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ViewAboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\ViewAboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ViewAboutUs.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\ViewAboutUs.cshtml",
+              "RelativeToolTip": "Views\\Home\\ViewAboutUs.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:30:35.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T20:27:54.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "site2.js",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\js\\site2.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site2.js",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\js\\site2.js",
+              "RelativeToolTip": "wwwroot\\js\\site2.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-18T20:23:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-18T20:22:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "theme.css",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\theme.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\theme.css",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\wwwroot\\css\\theme.css",
+              "RelativeToolTip": "wwwroot\\css\\theme.css",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-18T20:20:01.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ReturnViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\Borrow\\ReturnViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Borrow\\ReturnViewModel.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\Borrow\\ReturnViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Borrow\\ReturnViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:14:00.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BorrowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\Borrow\\BorrowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Borrow\\BorrowViewModel.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\Borrow\\BorrowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Borrow\\BorrowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:13:09.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "ViewModels\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:12:35.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:12:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:11:37.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:11:11.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Admin\\Display.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Display.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Admin\\Display.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T20:06:05.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AdminAuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Filters\\AdminAuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\AdminAuthorizationFilter.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Filters\\AdminAuthorizationFilter.cs",
+              "RelativeToolTip": "Filters\\AdminAuthorizationFilter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T20:04:15.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:58:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:58:17.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Homepage.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\Homepage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Homepage.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Home\\Homepage.cshtml",
+              "RelativeToolTip": "Views\\Home\\Homepage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:57:46.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Requesti.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Request\\Requesti.cshtml",
+              "RelativeDocumentMoniker": "Views\\Request\\Requesti.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Request\\Requesti.cshtml",
+              "RelativeToolTip": "Views\\Request\\Requesti.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:55:36.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:54:52.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\KontaktUs\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "Views\\KontaktUs\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\KontaktUs\\ThankYou.cshtml",
+              "RelativeToolTip": "Views\\KontaktUs\\ThankYou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:54:23.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Kontakto.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\KontaktUs\\Kontakto.cshtml",
+              "RelativeDocumentMoniker": "Views\\KontaktUs\\Kontakto.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\KontaktUs\\Kontakto.cshtml",
+              "RelativeToolTip": "Views\\KontaktUs\\Kontakto.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:53:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Return.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Borrow\\Return.cshtml",
+              "RelativeDocumentMoniker": "Views\\Borrow\\Return.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Borrow\\Return.cshtml",
+              "RelativeToolTip": "Views\\Borrow\\Return.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:52:39.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Borrow\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Borrow\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Borrow\\Create.cshtml",
+              "RelativeToolTip": "Views\\Borrow\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:52:05.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookss\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bookss\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:48:26.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookss\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Bookss\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:47:59.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookss\\Details.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Details.cshtml",
+              "RelativeToolTip": "Views\\Bookss\\Details.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwD4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:47:25.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookss\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Bookss\\Delete.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:46:42.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookss\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\Bookss\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bookss\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:45:54.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\About\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Views\\About\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Views\\About\\AboutUs.cshtml",
+              "RelativeToolTip": "Views\\About\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T19:39:22.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:25:32.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Models\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\LibraryContext.cs",
+              "RelativeToolTip": "Models\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:27:11.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Kontakt.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Kontakt.cs",
+              "RelativeDocumentMoniker": "Models\\Kontakt.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\Kontakt.cs",
+              "RelativeToolTip": "Models\\Kontakt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:27:49.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\andja\\source\\repos\\NOA_Library\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:28:31.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

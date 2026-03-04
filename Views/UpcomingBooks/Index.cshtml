@@ -1,0 +1,64 @@
+﻿@model IEnumerable<NOA_Library.Controllers.UpcomingBook>
+
+<h1>Upcoming Books</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Release Date</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.ReleaseDate.ToShortDateString()</td>
+                <td>@book.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.Identity.Name == "noa_libadmin@gmail.com")
+{
+    <h2>Add New Upcoming Book</h2>
+
+    <form method="post" asp-action="AddUpcomingBook">
+        <label for="title">Title:</label>
+        <input type="text" name="title" required />
+
+        <label for="author">Author:</label>
+        <input type="text" name="author" required />
+
+        <label for="releaseDate">Release Date:</label>
+        <input type="date" name="releaseDate" required />
+
+        <label for="description">Description:</label>
+        <textarea name="description" required></textarea>
+
+        <button type="submit">Add Book</button>
+    </form>
+}
+else
+{
+    <p>You do not have permission to add upcoming books.</p>
+}
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
+}

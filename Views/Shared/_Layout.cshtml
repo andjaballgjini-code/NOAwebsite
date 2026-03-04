@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Eventify</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="/css/profile.css" />
+    <script src="js/site2.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid d-flex justify-content-between">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="HomePage">noa</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <!-- Home -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">Home</a>
+                        </li>
+
+                        <!-- Events Dropdown -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="eventsDropdown" role="button" data-toggle="dropdown">
+                                Events
+                            </a>
+
+                            <!-- Koncerte Submenu -->
+                        <li class="dropdown-submenu">
+                            <a class="dropdown-item dropdown-toggle" href="#">🎶 Koncerte</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/Events/Music?genre=pop">Pop ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=rock">Rock ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=jazz">Jazz ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=blues">Blues ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=edm">Muzikë Elektronike ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=hiphop">Hip-Hop ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=folk">Muzikë Tradicionale ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=indie">Indie ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Music?genre=kpop">K-pop ✨</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- Opera Submenu -->
+                        <li class="dropdown-submenu">
+                            <a class="dropdown-item dropdown-toggle" href="#">🎭 Opera</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/Events/Opera?type=classical">Opera Klasike ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Opera?type=modern">Opera Moderne ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Opera?type=baroque">Opera Barok ✨</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- Sport Submenu -->
+                        <li class="dropdown-submenu">
+                            <a class="dropdown-item dropdown-toggle" href="#">🏟 Sport</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/Events/Sports?type=football">Futboll ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Sports?type=basketball">Basketboll ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Sports?type=volleyball">Volejboll ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Sports?type=boxing">Boks ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Sports?type=karate">Karate ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Sports?type=swimming">Not ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Sports?type=races">Gara ✨</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- Evente Kulturore -->
+                        <li class="dropdown-submenu">
+                            <a class="dropdown-item dropdown-toggle" href="#">🎨 Evente Kulturore</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/Events/Culture?type=artexhibition">Ekspozita arti ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Culture?type=pictures">Pikturë ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Culture?type=photography">Fotografi ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Culture?type=craftsfair">Panaire artizanati ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Culture?type=culturalfestivals">Festivale kulturore ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Culture?type=culinaryevents">Evente kulinarie ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Culture?type=tastings">Degustime ✨</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- Performanca & Arti Skenik -->
+                        <li class="dropdown-submenu">
+                            <a class="dropdown-item dropdown-toggle" href="#">🎬 Performanca & Arti Skenik</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/Events/Performance?type=spokenword">Spoken Word ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Performance?type=ballet">Balet ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Performance?type=circus">Cirqe ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Performance?type=acrobatic">Akrobatikë ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Performance?type=modern">Vallëzim modern ✨</a></li>
+                                <li><a class="dropdown-item" href="/Events/Performance?type=folk">Vallëzim popullor ✨</a></li>
+                            </ul>
+                        </li>
+
+                        </li>
+
+                        <!-- Other Menu Items -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="/AboutUs">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/ContactUs">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/MyTickets">My Tickets</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Login">Login</a>
+                        </li>
+
+
+                        <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Scripts for Bootstrap and jQuery -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <footer class="border-top footer text-muted">
+        <div class="container" style="color:#f8f3e5">
+            &copy; 2025 - noa - <a asp-area="" asp-controller="Home" asp-action="Privacy" style="color:#A67C6D">Privacy</a>
+        </div>
+    </footer>
+
+    <script>
+        $(document).ready(function () {
+            // Handle dropdown menu toggle for nested submenus
+            $('.dropdown-submenu a.dropdown-toggle').on("click", function (e) {
+                var $el = $(this).next('ul');
+                var $parent = $(this).parent().parent();
+                if ($el.is(':visible')) {
+                    $el.slideUp('200');
+                } else {
+                    $parent.find('ul').slideUp('200');
+                    $el.stop(true, true).slideDown('200');
+                }
+                e.stopPropagation();
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,188 @@
+/* General styling for body and html */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Georgia', serif; /* Complements a woody theme */
+    overflow: hidden; /* Prevent scrollbars */
+}
+
+/* Video container for the background video */
+.video-container {
+    position: fixed; /* Keeps it in the background */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Sends the video to the back */
+    overflow: hidden;
+}
+
+#background-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the video covers the container */
+    pointer-events: none; /* Ensures video doesn't block interaction */
+}
+
+/* Main container for the login form */
+.account-container {
+    display: flex;
+    justify-content: flex-end; /* Aligns the form to the right */
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    z-index: 1; /* Keeps the login form above the video */
+    padding-right: 100px; /* Adjust padding for spacing from the right edge */
+    background: transparent; /* Ensures no background blocks the video */
+}
+
+/* Styling for the login/register box */
+.account-box {
+    background: rgba(245, 222, 179, 0.9); /* Wheat-like background for a woody feel */
+    padding: 20px 30px;
+    border-radius: 13px; /* Slightly rounded corners for a modern touch */
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2); /* Deep shadow for depth */
+    width: 100%;
+    max-width: 400px;
+}
+
+
+
+
+/* Woody styling for login/register/back buttons */
+.btn-success, .btn-primary, .btn-secondary {
+    background: #8B4513; /* Woody background */
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 5px;
+    padding: 10px 15px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+    .btn-success:hover, .btn-primary:hover, .btn-secondary:hover {
+        background: #A0522D; /* Lighter woody color on hover */
+        transform: scale(1.05); /* Slight zoom effect */
+    }
+
+/* Back button styling */
+.btn-back {
+    background: #A0522D; /* Slightly lighter woody tone */
+    font-size: 14px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 8px 12px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 15px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+    .btn-back:hover {
+        background: black; /* Even lighter woody tone on hover */
+        transform: scale(1.08); /* Slight zoom effect */
+        text-decoration: underline; /* Underline on hover */
+    }
+
+/* Form labels and inputs */
+.form-label {
+    font-weight: bold;
+    color: #333;
+    font-size: 14px;
+}
+
+.form-control {
+    border: 1px solid #8B4513; /* Saddle Brown border */
+    border-radius: 8px; /* Slightly rounded corners */
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+}
+
+    /* Focus state for form control */
+    .form-control:focus {
+        outline: none;
+        border-color: #A0522D; /* Sienna color for focus border */
+        box-shadow: 0 0 5px rgba(160, 82, 45, 0.5); /* Subtle shadow on focus */
+    }
+
+
+
+/* Styling for the 'Already have an account?' text */
+.text-center p {
+    font-size: 16px; /* Medium font size */
+    color: #4B3621; /* Darker woody brown */
+    margin-bottom: 15px; /* Space after the paragraph */
+}
+
+/* Styling for the link (Login) inside the 'Already have an account?' section */
+.text-center a {
+    color: #8B4513; /* Saddle brown */
+    font-weight: bold; /* Bold text */
+    text-decoration: none; /* Removes underline */
+    transition: color 0.3s ease-in-out;
+}
+
+    .text-center a:hover {
+        color: #A0522D; /* Sienna color on hover */
+        text-decoration: underline; /* Underline when hovering */
+    }
+
+    /* Styling for the 'Back' link */
+    .text-center a.mt-3 {
+        color: #8B4513; /* Saddle brown for 'Back' link */
+        font-weight: bold;
+        text-decoration: none;
+        transition: color 0.3s ease-in-out;
+    }
+
+        .text-center a.mt-3:hover {
+            color: #A0522D; /* Sienna color when hovering over the 'Back' link */
+            text-decoration: underline;
+        }
+
+
+
+/* Styling for the 'Forgot Password?' link */
+.float-end a {
+    color: #8B4513; /* Saddle brown */
+    font-size: 12px;
+    font-weight: bold;
+    color: #8B4513;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+    .float-end a:hover {
+        transform: scale(1.05);
+        text-decoration: underline; /* Underline when hovering */
+    }
+
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .account-container {
+        justify-content: center; /* Center align for smaller screens */
+        padding-right: 0;
+    }
+
+    .account-box {
+        padding: 20px;
+        width: 90%;
+    }
+
+    .btn-success, .btn-primary, .btn-secondary {
+        font-size: 14px;
+    }
+}

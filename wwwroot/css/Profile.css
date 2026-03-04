@@ -1,0 +1,246 @@
+/* Scoped Styles for Profile Dashboard */
+.profile-dashboard {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1E1B29; /* Deep purple background */
+    color: #FFFFFF;
+    min-height: 100vh; /* Ensures content fills viewport */
+    display: flex;
+    flex-direction: column; /* Improves layout and responsiveness */
+    padding: 20px; /* Adds padding around the profile dashboard */
+    border-radius: 15px; /* Smooth rounded corners */
+}
+
+    .profile-dashboard .dashboard-container {
+        flex-grow: 1; /* Allows main content to fill available space */
+        display: flex;
+        padding: 10px; /* Adds padding inside the dashboard container */
+        border-radius: 15px; /* Smooth rounded corners */
+    }
+
+    .profile-dashboard .sidebar {
+        width: 250px;
+        background-color: #2A2540; /* Darker purple for sidebar */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        border-radius: 15px; /* Smooth rounded corners */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds subtle shadow for depth */
+    }
+
+    .profile-dashboard .menu {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .profile-dashboard .menu-item {
+        padding: 15px;
+        color: #FFFFFF;
+        text-decoration: none;
+        border-radius: 8px;
+        margin-bottom: 10px;
+        text-align: center;
+        background-color: transparent; /* Transparent by default */
+        transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .profile-dashboard .menu-item.active,
+        .profile-dashboard .menu-item:hover {
+            background-color: #6C4AB6; /* Vibrant purple for hover/active */
+            color: #FFFFFF;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Adds subtle shadow on hover */
+        }
+
+    .profile-dashboard .main-content {
+        flex-grow: 1;
+        padding: 20px;
+        overflow-y: auto; /* Adds scroll for long content */
+        border-radius: 15px; /* Smooth rounded corners */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds subtle shadow for depth */
+    }
+
+    .profile-dashboard .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #6C4AB6; /* Adds subtle border for separation */
+    }
+
+    .profile-dashboard .search-bar {
+        padding: 10px;
+        width: 50%;
+        border: none;
+        border-radius: 20px;
+        background-color: #3C2D53; /* Muted purple for search bar */
+        color: #FFFFFF;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Sections */
+    .profile-dashboard .section {
+        margin-bottom: 30px;
+    }
+
+    .profile-dashboard h2 {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+        color: #C3B4E0; /* Soft lavender for headings */
+    }
+
+    .profile-dashboard .scrollable-list {
+        display: flex;
+        gap: 15px;
+        overflow-x: auto;
+    }
+
+    .profile-dashboard .book-card {
+        background-color: #342B4F; /* Rich purple for book cards */
+        padding: 15px;
+        border-radius: 15px;
+        width: 150px;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .profile-dashboard .book-card:hover {
+            transform: scale(1.05); /* Slight zoom on hover */
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Adds shadow on hover */
+        }
+
+        .profile-dashboard .book-card img {
+            width: 100%;
+            border-radius: 12px;
+            margin-bottom: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .profile-dashboard .book-card p {
+            margin: 10px 0;
+            font-size: 0.9rem;
+            color: #E4D7F2; /* Light lavender for text */
+        }
+
+    /* Subjects Grid */
+    .profile-dashboard .subjects-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+    }
+
+    .profile-dashboard .subject-card {
+        background-color: #342B4F; /* Same as book cards for consistency */
+        padding: 20px;
+        text-align: center;
+        border-radius: 15px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        color: #E4D7F2; /* Light lavender text */
+    }
+
+        .profile-dashboard .subject-card span {
+            display: block;
+            margin-top: 10px;
+            font-size: 0.85rem;
+            color: #C3B4E0; /* Subtle lavender for secondary text */
+        }
+
+    /* Authors Grid */
+    .profile-dashboard .authors-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 15px;
+    }
+
+    .profile-dashboard .author-card {
+        text-align: center;
+    }
+
+        .profile-dashboard .author-card img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+            border: 3px solid #6C4AB6; /* Vibrant purple border */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .profile-dashboard .author-card p {
+            font-size: 0.9rem;
+            color: #E4D7F2;
+        }
+/* Default Dark Theme Styles */
+body {
+    background-color: #1E1B29; /* Default dark background */
+    color: #FFFFFF; /* Default white text */
+}
+
+.sidebar {
+    background-color: #2A2540; /* Dark purple */
+    color: #FFFFFF; /* White text for sidebar */
+}
+
+.menu-item {
+    background-color: transparent;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 15px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+    .menu-item:hover, .menu-item.active {
+        background-color: #6C4AB6; /* Hover/active color */
+    }
+
+.main-content {
+    background-color: #292638; /* Slightly lighter dark for main content */
+    color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.header {
+    border-bottom: 1px solid #6C4AB6;
+}
+
+/* Light Theme Overrides */
+body.light .profile-dashboard {
+    background-color: #dcb171; /* Warm wood tone */
+    color: #1E1B29;
+}
+
+    body.light .profile-dashboard .sidebar {
+        background-color: #ecd9ae; /* Light beige sidebar */
+    }
+
+    body.light .profile-dashboard .menu-item {
+        background-color: #c9a66b; /* Warmer wood tone */
+        color: #5D4037;
+    }
+
+        body.light .profile-dashboard .menu-item:hover,
+        body.light .profile-dashboard .menu-item.active {
+            background-color: #BCAAA4;
+            color: #FFFFFF;
+        }
+
+    body.light .profile-dashboard .main-content {
+        background-color: #FAE5C3; /* Softer warm beige */
+        color: #5D4037;
+    }
+
+    body.light .profile-dashboard .search-bar {
+        background-color: #D2B48C; /* Lighter wood tone */
+        color: #5D4037;
+    }
+
+    body.light .profile-dashboard .book-card {
+        background-color: #E6CBA8; /* Warm beige */
+        color: #5D4037;
+    }
+
+        body.light .profile-dashboard .book-card p {
+            color: #6D4C41; /* Darker brown for text */
+        }

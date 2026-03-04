@@ -1,0 +1,48 @@
+﻿@model NOA_Library.Models.Request
+
+@{
+    ViewData["Title"] = "Request a book";
+}
+<div class="centered-container">
+    <div class="centered-box">
+        <h3>Request a Book</h3>
+        <hr />
+
+        <p>
+            NOA gives the opportunity to all the book enthusiasts to request and preorder books.
+            We would kindly ask you to fill in the correct Book Title and the Author's name.
+            Thank you!
+        </p>
+
+        @if (ViewBag.SuccessMessage != null)
+        {
+            <div class="alert alert-success" role="alert">
+                @ViewBag.SuccessMessage
+            </div>
+        }
+
+
+        <form asp-action="Requesti" method="post">
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookTitle"></label>
+                <input asp-for="BookTitle" class="form-control" />
+                <span asp-validation-for="BookTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Author"></label>
+                <input asp-for="Author" class="form-control" />
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+        @section Scripts {
+            @{
+                await Html.RenderPartialAsync("_ValidationScriptsPartial");
+            }
+        }

@@ -1,0 +1,106 @@
+﻿@{
+    ViewData["Title"] = "Profile Dashboard";
+}
+
+
+<div class="profile-dashboard">
+    <div class="dashboard-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            @await Html.PartialAsync("theme")
+            <nav class="menu">
+                <a href="Home" class="menu-item active">Library</a>
+                <a href="Books" class="menu-item">Books</a>
+                <a href="Genres" class="menu-item">Genres</a>
+            </nav>
+        </aside>
+
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="header">
+                <input type="text" class="search-bar" placeholder="Search here...">
+
+            </header>
+
+            <!-- Previous Reading Section -->
+            <section class="section previous-reading">
+                <h2>Previous Reading</h2>
+                <div class="scrollable-list">
+                    <div class="book-card">
+                        <img src="/images/book1.jpg" alt="Funny Story">
+                        <p>#1 New York Times bestselling author Emily Henry</p>
+                    </div>
+                    <div class="book-card">
+                        <img src="/images/book2.jpg" alt="The Teacher">
+                        <p>A mind-bending, psychological thriller from Freida McFadden</p>
+                    </div>
+                    <div class="book-card">
+                        <img src="/images/book3.webp" alt="We Solve Murders">
+                        <p>
+                            Full of humour and suspense, and just like Osman’s Thursday Murder Club,
+                            the book is a fun escape from the everyday
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Subjects Section -->
+            <section class="section subjects">
+                <h2>Subjects Section</h2>
+                <div class="subjects-grid">
+                    <div class="subject-card">Science <span>1.2k Books</span></div>
+                    <div class="subject-card">Arts <span>1.8k Books</span></div>
+                    <div class="subject-card">Commerce <span>230 Books</span></div>
+                    <div class="subject-card">Design <span>80 Books</span></div>
+                    <div class="subject-card">Cooking <span>180 Books</span></div>
+                    <div class="subject-card">Others <span>900 Books</span></div>
+                </div>
+            </section>
+
+            <!-- Popular Books Section -->
+            <section class="section popular-books">
+                <h2>Popular Books</h2>
+                <div class="scrollable-list">
+                    <div class="book-card">
+                        <img src="/images/book4.jpg" alt="Everything>
+                        <p>Everything</p>
+                    </div>
+                    <div class="book-card">
+                        <img src="/images/book5.jpg" alt="Sherlock Holmes">
+                        <p>Sherlock Holmes</p>
+                    </div>
+                    <div class="book-card">
+                        <img src="/images/book6.jpg" alt="A Girl to Remember">
+                        <p>A Girl to Remember</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Writers and Authors Section -->
+            <section class="section writers-authors">
+                <h2>Writers and Authors</h2>
+                <div class="authors-grid">
+                    <div class="author-card">
+                        <img src="/images/author1.jpg" alt="Mark Manson">
+                        <p>Mark Manson</p>
+                    </div>
+                    <div class="author-card">
+                        <img src="/images/author2.jpg" alt="Agatha Christie">
+                        <p>Agatha Christie</p>
+                    </div>
+                    <div class="author-card">
+                        <img src="/images/author3.jpg" alt="Austin Kleon">
+                        <p>Austin Kleon</p>
+                    </div>
+                </div>
+            </section>
+
+
+        </main>
+
+
+    </div>
+
+</div>

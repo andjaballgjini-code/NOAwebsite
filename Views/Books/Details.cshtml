@@ -1,0 +1,59 @@
+﻿@model NOA_Library.Models.Books
+
+<div class="container">
+    <h1>Book Details: @Model.Title</h1>
+    <div class="book-detail">
+        <img src="@Model.ImageUrl" alt="@Model.Title" class="book-image" />
+        <div>
+            <p><strong>Author:</strong> @Model.Author</p>
+            <p><strong>Publisher:</strong> @Model.Publisher</p>
+            <p><strong>Year:</strong> @Model.Year</p>
+            <p><strong>Pages:</strong> @Model.Pages</p>
+            <p><strong>Language:</strong> @Model.Language</p>
+            <p><strong>Genre:</strong> @Model.Genre</p>
+            <p><strong>Description:</strong> @Model.Description</p>
+            <p><strong>Average Rating:</strong> @Model.AverageRating.ToString("F1")</p>
+            <p><strong>Total Ratings:</strong> @Model.TotalRatings</p>
+            <a href="@Url.Action("Download", "File", new { fileName = System.IO.Path.GetFileName(Model.ImageUrl) })" class="btn btn-primary">Download @Model.Title</a>
+
+
+
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success">@TempData["Success"]</div>
+            }
+            @if (TempData["Error"] != null)
+            {
+                <div class="alert alert-danger">@TempData["Error"]</div>
+            }
+
+            <h3>Rate this book:</h3>
+            <form asp-controller="Rating" asp-action="AddRating" method="post" class="rating-form">
+                <input type="hidden" name="bookId" value="@Model.Id" />
+
+                <div class="star-rating">
+                    <input type="radio" id="star5" name="stars" value="5" />
+                    <label for="star5" title="5 stars">☆</label>
+
+                    <input type="radio" id="star4" name="stars" value="4" />
+                    <label for="star4" title="4 stars">☆</label>
+
+                    <input type="radio" id="star3" name="stars" value="3" />
+                    <label for="star3" title="3 stars">☆</label>
+
+                    <input type="radio" id="star2" name="stars" value="2" />
+                    <label for="star2" title="2 stars">☆</label>
+
+                    <input type="radio" id="star1" name="stars" value="1" />
+                    <label for="star1" title="1 star">☆</label>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+        </div>
+
+    <a href="@Url.Action("Index", "Books")" class="btn btn-secondary mt-3">Back to Book List</a>
+    </div>
+
+   

@@ -1,0 +1,45 @@
+﻿@model List<NOA_Library.Models.Books>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book List</title>
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div class="container">
+        <h1>BOOK LIST</h1>
+
+        <!-- Search Form -->
+        <form method="get" action="@Url.Action("Index", "Books")">
+            <input type="text" name="searchQuery" placeholder="Search books..." value="@ViewData["SearchQuery"]">
+            <button type="submit">Search</button>
+        </form>
+
+        <!-- Book List -->
+        <div id="booksList" class="books">
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var books in Model)
+                {
+                    <div class="book">
+                        <!-- Book image is clickable and redirects to the details page -->
+                        <a href="@Url.Action("Details", "Books", new { id = books.Id })">
+                            <img src="@books.ImageUrl" alt="@books.Title">
+                        </a>
+                        <!-- Title and author -->
+                        <p><strong>@books.Title</strong></p>
+                        <p>Author: @books.Author</p>
+                    </div>
+                }
+            }
+            else
+            {
+                <p class="no-books-message">No books found.</p>
+            }
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,59 @@
+
+
+/* Toggle Button */
+.theme-toggle {
+    width: 150px;
+    height: 50px;
+    background-color: #27173a; /* Default purple */
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 7px;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.3s ease-in-out;
+    margin-bottom: 20px;
+}
+
+    .theme-toggle .toggle-knob {
+        width: 40px;
+        height: 40px;
+        background-color: #ffc207; /* Bright yellow knob */
+        border-radius: 50%;
+        transition: transform 0.3s ease-in-out;
+        transform: translateX(0); /* Default position (left) */
+    }
+
+body.light .theme-toggle {
+    background-color: #CCCCCC; /* Light grey for toggle button */
+}
+
+    body.light .theme-toggle .toggle-knob {
+        transform: translateX(100px); /* Move knob to the right */
+    }
+
+/* Ensure all elements properly change in light mode */
+body.light .sidebar {
+    background-color: #dcb171;
+    color: #5D4037;
+}
+
+    body.light .sidebar .menu-item {
+        background-color: transparent;
+        color: #5D4037;
+    }
+
+body.light .main-content {
+    background-color: #FFFFFF;
+    color: #5D4037;
+}
+
+body.light .profile-dashboard .subjects-grid {
+    background-color: #F5F5F5;
+    color: #5D4037;
+}
+
+body.light .profile-dashboard .author-card img {
+    border-color: #671d08;
+}

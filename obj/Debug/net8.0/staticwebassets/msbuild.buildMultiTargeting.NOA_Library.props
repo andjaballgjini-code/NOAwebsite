@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NOA_Library.props" />
+</Project>
